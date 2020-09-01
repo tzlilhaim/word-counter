@@ -1,7 +1,7 @@
 const express = require("express")
 const app = express()
 const path = require("path")
-const port = 8080
+const port = 3000
 const api = require("./server/routes/api")
 const bodyParser = require("body-parser")
 
